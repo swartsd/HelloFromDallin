@@ -37,5 +37,7 @@ public class IntroduceMyself {
         greeting.sayHello();
         greeting.setCollaboratorName("Frances");
         greeting.replyBack();
+        greeting.setCollaboratorName("Elijah");
+        greeting.replyBack();
     }
 }
